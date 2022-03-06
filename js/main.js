@@ -33,3 +33,4 @@ contact.addEventListener('click', () => {
     contactBox.top = 50;
     contactBox.left = 50;
 })
+
