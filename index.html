@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linusx</title>
+    <link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css"/>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li id="about">/about</li>
+                <li id="contact">/contact</li>
+                <li id="terminal">/terminal</li>
+            </ul>
+        </nav>
+
+        <main>
+            <!--thin line :"│"-->
+            <h1>linusx:~$ <span class="cursor">│</span></h1>
+            <h3>Find me online:</h3>
+            <ul>
+                <li>
+                    <a href="https://github.com/GalaxyLinus" target="_blank">Github</a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/channel/UCZmHgbzfSuv-mpf1wNUF5LA" target="_blank">YouTube</a>
+                </li>
+                <li>
+                    <a href="https://dev.to/linusx" target="_blank">Dev</a>
+                </li>
+            </ul>
+        </main>
+    </div>
+
+    <div class="hidden">
+        <div id="about-content">
+            <h2>about-me:~$ <span class="cursor">│</span></h2>
+            <p>Hey, my name is Linus and I'm currently 14 years old. I like learning new technical things like programming. I have a YouTube Channel, where I post all my Minecraft Creations. My Future Goals are expanding my knowledge about Python, Javascript and CSS<p>
+        </div>
+        <div id="contact-content">
+            <h2>contact-me:~$ <span class="cursor">│</span></h2>
+            <p>Email: <a href="mailto:galaxylinus@gmail.com" target="_blank">galaxylinus@gmail.com</a></p>
+            <p>Discord: <a href="https://discord.com/users/531070363795456000" target="_blank">Linusx#0743</a></p>
+        </div>
+        <div id="terminal-content"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
+    <script src="js/winbox.bundle.js"></script>
+    <script src="js/main.js"></script>
+
+    
+</body>
+</html>
