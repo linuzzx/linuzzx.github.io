@@ -84,5 +84,3 @@ terminal.addEventListener('click', () => {
         }
     })
 })
-
-
