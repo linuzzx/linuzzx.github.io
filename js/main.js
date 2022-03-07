@@ -6,7 +6,7 @@ const contactContent = document.querySelector('#contact-content')
 const terminalContent = document.querySelector('#terminal-content')
 
 about.addEventListener('click', () => {
-    const aboutBox = new WinBox({
+    new WinBox({
         title: 'About Me',
         background: '#00aa00',
         width: '400px',
@@ -22,7 +22,7 @@ about.addEventListener('click', () => {
 })
 
 contact.addEventListener('click', () => {
-    const contactBox = new WinBox({
+    new WinBox({
         title: 'Contact Me',
         background: '#00aa00',
         width: '400px',
@@ -38,36 +38,10 @@ contact.addEventListener('click', () => {
 })
 
 terminal.addEventListener('click', () => {
-    const terminal = $('#terminal-content').terminal({
-        help: function() {
-            this.echo('\nTry these commands:');
-            this.echo('help:	see this page');
-            this.echo('test:	self explanatory');
-            this.echo('cat:	get picture of cute kitty');
-
-            this.echo('\n');
-        },
-    
-        cat: function() {
-            this.echo($('<img src="https://cataas.com/cat?ignore=' + Math.floor(Math.random()* 1000) +'" width="200">'));
-            this.echo('\n');
-        },
-
-        test: function() {
-            this.echo('this is a test');
-        }
-    
-    
-    
-    
-    
-    }, {
-        greetings: '',
-        prompt: 'linusx:~$ '
-    });
+    makeTerminal();
 
 
-    const terminalBox = new WinBox({
+    new WinBox({
         title: 'Terminal',
         background: '#00aa00',
         width: '400px',

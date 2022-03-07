@@ -1,0 +1,28 @@
+/* Terminal */
+
+.terminal {
+    --color: #ccc;
+    --background: #111;
+    --link-color: var(--text-color);
+}
+
+/* Matrix */
+
+canvas {
+    background-color: black;
+    color: #00FF00;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#matrixtext {
+    padding: 40px;
+    background-color: black;
+    color: #00FF00;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+}
