@@ -41,7 +41,7 @@ terminal.addEventListener('click', () => {
     makeTerminal();
 
 
-    new WinBox({
+    terminalBox = new WinBox({
         title: 'Terminal',
         background: '#00aa00',
         width: '400px',
@@ -54,7 +54,7 @@ terminal.addEventListener('click', () => {
         left: 10,
         mount: terminalContent,
         onclose: function(){
-            this.exec('clear');
+            terminalBox.exec('clear');
         }
-    })
+    });
 })
