@@ -41,7 +41,7 @@ terminal.addEventListener('click', () => {
     makeTerminal();
 
 
-    terminalBox = new WinBox({
+    const terminalBox = new WinBox({
         title: 'Terminal',
         background: '#00aa00',
         width: '400px',
