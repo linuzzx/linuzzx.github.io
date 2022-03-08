@@ -54,7 +54,7 @@ terminal.addEventListener('click', () => {
         left: 10,
         mount: terminalContent,
         onclose: function(){
-            terminal.exec('clear');
+            this.exec('clear');
         }
     })
 })
