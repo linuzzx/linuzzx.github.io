@@ -4,6 +4,7 @@
     --color: #ccc;
     --background: #111;
     --link-color: var(--text-color);
+    height: 100%;
 }
 
 /* Matrix */
