@@ -116,11 +116,5 @@ nav ul li {
     }
 }
 
-/* Terminal */
 
-.terminal {
-    --color: #ccc;
-    --background: #111;
-    --link-color: var(--text-color);
-}
 
