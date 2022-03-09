@@ -60,7 +60,7 @@ terminal.addEventListener('click', () => {
             greetings: '',
             prompt: 'linusx:~$ '
         });
-
+        
         const terminalBox = new WinBox({
             title: 'Terminal',
             background: '#00aa00',
@@ -74,9 +74,10 @@ terminal.addEventListener('click', () => {
             left: 10,
             mount: terminalContent,
             onclose: function(){
-                terminalEngine.exec('clear');
+                terminalEngine.reset();
                 terminalOpen = false;
             }
         });
+
     }
 })

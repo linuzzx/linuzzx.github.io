@@ -1,10 +1,7 @@
 const terminalCommands = {
     help: function() {
         this.echo('\nTry these commands:');
-        this.echo('help:	see this page');
-        this.echo('test:	self explanatory');
-        this.echo('cat:	get picture of cute kitty');
-        this.echo('matrix:	you know the deal');
+        this.echo($('<ul><li>help</li><li>cat</li><li>neofetch</li></ul>'));
 
         this.echo('\n');
     },
@@ -18,7 +15,7 @@ const terminalCommands = {
         this.echo('this is a test');
     },
     
-    matrix: function() {
+    neofetch: function() {
 
         function typeWriter() {
             if (i < txt.length) {
