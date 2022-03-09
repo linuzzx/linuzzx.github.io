@@ -1,7 +1,9 @@
 const terminalCommands = {
     help: function() {
         this.echo('\nTry these commands:');
-        this.echo($('<ul><li>help</li><li>cat</li><li>neofetch</li></ul>'));
+        this.echo('- help');
+        this.echo('- cat');
+        this.echo('- neofetch');
 
         this.echo('\n');
     },
