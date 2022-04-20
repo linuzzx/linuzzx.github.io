@@ -1,3 +1,0 @@
-https://galaxylinus.github.io
-  
-  
