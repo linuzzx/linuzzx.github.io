@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linusx</title>
-    <link>https://galaxylinus.github.io/</link>
+    <link>https://linuzzx.github.io/</link>
     <description>Recent content on Linusx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://galaxylinus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://linuzzx.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://galaxylinus.github.io/about/</link>
+      <link>https://linuzzx.github.io/about/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://galaxylinus.github.io/about/</guid>
+      <guid>https://linuzzx.github.io/about/</guid>
       <description>Hey, my name is Linus and I&amp;rsquo;m currently 15 years old. I like learning new technical things like programming.
 I have a YouTube Channel, where I post all my Minecraft Creations. My Future Goals are expanding my knowledge about Python, Javascript and CSS</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://galaxylinus.github.io/contact/</link>
+      <link>https://linuzzx.github.io/contact/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://galaxylinus.github.io/contact/</guid>
-      <description>Email: galaxylinus@gmail.com
+      <guid>https://linuzzx.github.io/contact/</guid>
+      <description>Email: linuzzx@gmail.com
 Discord: Linusx#0743</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://galaxylinus.github.io/posts/test/</link>
+      <link>https://linuzzx.github.io/posts/test/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://galaxylinus.github.io/posts/test/</guid>
+      <guid>https://linuzzx.github.io/posts/test/</guid>
       <description>Markdown syntax guideHeadersThis is a Heading h1This is a Heading h2This is a Heading h6EmphasisThis text will be italic
 This will also be italic
 This text will be bold
@@ -43,10 +43,10 @@ ListsUnordered Item 1 Item 2 Item 2a Item 2b  Ordered Item 1 Item 2 
     
     <item>
       <title>Projects</title>
-      <link>https://galaxylinus.github.io/projects/</link>
+      <link>https://linuzzx.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://galaxylinus.github.io/projects/</guid>
+      <guid>https://linuzzx.github.io/projects/</guid>
       <description> TikTakToe AI in Python  </description>
     </item>
     
