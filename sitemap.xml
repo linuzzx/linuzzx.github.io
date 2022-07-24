@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://linuzzx.github.io/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://linuzzx.github.io/photography/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://linuzzx.github.io/photography/overview/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://linuzzx.github.io/about/</loc>
     <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://linuzzx.github.io/contact/</loc>
-    <lastmod>2022-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://linuzzx.github.io/</loc>
     <lastmod>2022-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://linuzzx.github.io/posts/</loc>

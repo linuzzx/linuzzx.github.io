@@ -6,7 +6,18 @@
     <description>Recent content on Linusx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://linuzzx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://linuzzx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photography</title>
+      <link>https://linuzzx.github.io/photography/overview/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuzzx.github.io/photography/overview/</guid>
+      <description>HellionsHellions 1
+Hellions 2
+Hellions 3</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://linuzzx.github.io/about/</link>
@@ -33,12 +44,12 @@ Discord: Linusx#0743</description>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://linuzzx.github.io/posts/test/</guid>
-      <description>Markdown syntax guideHeadersThis is a Heading h1This is a Heading h2This is a Heading h6EmphasisThis text will be italic
+      <description>Markdown syntax guideHeadersThis is a Heading h1This is a Heading h2This is a Heading h6EmphasisThis text will be italic
 This will also be italic
 This text will be bold
 This will also be bold
 You can combine them
-ListsUnordered Item 1 Item 2 Item 2a Item 2b  Ordered Item 1 Item 2 Item 3 Item 3a Item 3b  ImagesLinksYou may be using Markdown Live Preview.</description>
+ListsUnorderedItem 1 Item 2 Item 2a Item 2b OrderedItem 1 Item 2 Item 3 Item 3a Item 3b ImagesLinksYou may be using Markdown Live Preview.</description>
     </item>
     
     <item>
@@ -47,7 +58,7 @@ ListsUnordered Item 1 Item 2 Item 2a Item 2b  Ordered Item 1 Item 2 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://linuzzx.github.io/projects/</guid>
-      <description> TikTakToe AI in Python  </description>
+      <description> TikTakToe AI in Python </description>
     </item>
     
   </channel>
