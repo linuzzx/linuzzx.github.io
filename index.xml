@@ -27,16 +27,6 @@ Basically</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://linuzzx.github.io/contact/</link>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://linuzzx.github.io/contact/</guid>
-      <description>Github: linuzzx
-Discord: Linusx#2489</description>
-    </item>
-    
-    <item>
       <title>Test</title>
       <link>https://linuzzx.github.io/posts/test/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
@@ -48,6 +38,24 @@ This text will be bold
 This will also be bold
 You can combine them
 ListsUnorderedItem 1 Item 2 Item 2a Item 2b OrderedItem 1 Item 2 Item 3 Item 3a Item 3b ImagesLinksYou may be using Markdown Live Preview.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://linuzzx.github.io/contact-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuzzx.github.io/contact-success/</guid>
+      <description>Github: linuzzx</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://linuzzx.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://linuzzx.github.io/contact/</guid>
+      <description>NameEmailMessageSend(Powered by Un-static Forms)</description>
     </item>
     
     <item>
