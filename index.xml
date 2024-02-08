@@ -6,66 +6,56 @@
     <description>Recent content on Linusx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://linuzzx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://linuzzx.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photography</title>
       <link>https://linuzzx.github.io/photography/overview/</link>
       <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://linuzzx.github.io/photography/overview/</guid>
-      <description></description>
+      <description>&#xD;</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://linuzzx.github.io/about/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://linuzzx.github.io/about/</guid>
-      <description>Hi 👋, I&amp;rsquo;m Linus
-Basically</description>
+      <description>Hi 👋, I&amp;rsquo;m Linus&#xA;Basically</description>
     </item>
-    
     <item>
       <title>Test</title>
       <link>https://linuzzx.github.io/posts/test/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://linuzzx.github.io/posts/test/</guid>
-      <description>Markdown syntax guideHeadersThis is a Heading h1This is a Heading h2This is a Heading h6EmphasisThis text will be italic
-This will also be italic
-This text will be bold
-This will also be bold
-You can combine them
-ListsUnorderedItem 1 Item 2 Item 2a Item 2b OrderedItem 1 Item 2 Item 3 Item 3a Item 3b ImagesLinksYou may be using Markdown Live Preview.</description>
+      <description>Markdown syntax guide&#xD;Headers&#xD;This is a Heading h1&#xD;This is a Heading h2&#xD;This is a Heading h6&#xD;Emphasis&#xD;This text will be italic&#xA;This will also be italic&#xA;This text will be bold&#xA;This will also be bold&#xA;You can combine them&#xA;Lists&#xD;Unordered&#xD;Item 1 Item 2 Item 2a Item 2b Ordered&#xD;Item 1 Item 2 Item 3 Item 3a Item 3b Images&#xD;Links&#xD;You may be using Markdown Live Preview.</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>https://linuzzx.github.io/test/co2links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://linuzzx.github.io/test/co2links/</guid>
+      <description>CO2 WiWo Thema Quellen&#xD;https://thegreeneve.blogspot.com/2011_01_01_archive.html</description>
+    </item>
     <item>
       <title>Contact</title>
       <link>https://linuzzx.github.io/contact-success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://linuzzx.github.io/contact-success/</guid>
       <description>Github: linuzzx</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://linuzzx.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://linuzzx.github.io/contact/</guid>
-      <description>NameEmailMessageSend(Powered by Un-static Forms)</description>
+      <description>Name&#xD;Email&#xD;Message&#xD;Send&#xD;(Powered by Un-static Forms)</description>
     </item>
-    
     <item>
       <title>Projects</title>
       <link>https://linuzzx.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://linuzzx.github.io/projects/</guid>
       <description> TikTakToe AI in Python (github) CountdownToBirthday (link,github) lew-encoder (github) dsb-webscraper (github) elternportal-scraper (github) Substi (github) </description>
     </item>
-    
   </channel>
 </rss>

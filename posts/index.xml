@@ -6,20 +6,14 @@
     <description>Recent content in Posts on Linusx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://linuzzx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://linuzzx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://linuzzx.github.io/posts/test/</link>
       <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://linuzzx.github.io/posts/test/</guid>
-      <description>Markdown syntax guideHeadersThis is a Heading h1This is a Heading h2This is a Heading h6EmphasisThis text will be italic
-This will also be italic
-This text will be bold
-This will also be bold
-You can combine them
-ListsUnorderedItem 1 Item 2 Item 2a Item 2b OrderedItem 1 Item 2 Item 3 Item 3a Item 3b ImagesLinksYou may be using Markdown Live Preview.</description>
+      <description>Markdown syntax guide&#xD;Headers&#xD;This is a Heading h1&#xD;This is a Heading h2&#xD;This is a Heading h6&#xD;Emphasis&#xD;This text will be italic&#xA;This will also be italic&#xA;This text will be bold&#xA;This will also be bold&#xA;You can combine them&#xA;Lists&#xD;Unordered&#xD;Item 1 Item 2 Item 2a Item 2b Ordered&#xD;Item 1 Item 2 Item 3 Item 3a Item 3b Images&#xD;Links&#xD;You may be using Markdown Live Preview.</description>
     </item>
-    
   </channel>
 </rss>
