@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Network Connection Check</title>
+</head>
+<body>
+
+<p id="connectionStatus"></p>
+
+<script>
+  if (navigator.connection && navigator.connection.effectiveType) {
+    if (navigator.connection.effectiveType === '3g' || navigator.connection.effectiveType === '2g') {
+      document.getElementById('connectionStatus').innerText = 'You are on a 3G/2G or lower connection.';
+    } else {
+      document.getElementById('connectionStatus').innerText = 'You are on a higher-speed connection.';
+    }
+  } else {
+    document.getElementById('connectionStatus').innerText = 'Network information not available.';
+  }
+</script>
+
+</body>
+</html>
